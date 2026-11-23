@@ -1,1 +1,2 @@
 # react-mini
+react 미니 프로젝트 입니다
